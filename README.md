@@ -1,5 +1,5 @@
 <!-- ===================== HEADER ===================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Muneeb%20Ali%20Abbasi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%26%20Automation%20Expert&descSize=18&descAlignY=60" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Muneeb+Ali+Abbasi&fontSize=48&fontColor=ffffff" width="100%" alt="Header" />
 
 <div align="center">
 
@@ -11,7 +11,7 @@
 <br/><br/>
 
 <!-- ===================== PROFILE IMAGE (CIRCULAR) ===================== -->
-<img src="https://wsrv.nl/?url=raw.githubusercontent.com/mr-muneeb-ali-abbasi/mr-muneeb-ali-abbasi/main/profile.png&w=260&h=260&fit=cover&a=top&mask=circle&output=png" width="220" alt="Mr. Muneeb Ali Abbasi" />
+<img src="https://raw.githubusercontent.com/mr-muneeb-ali-abbasi/mr-muneeb-ali-abbasi/main/profile.png" width="220" alt="Mr. Muneeb Ali Abbasi" />
 
 <br/><br/>
 
@@ -28,7 +28,7 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/m-muneeb-ali-abbasi-547474ffm-su">
+<a href="https://www.linkedin.com/in/abbasi-king-5a0437418">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://www.facebook.com/share/1572s6fFm7/">
@@ -76,7 +76,7 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=mr-muneeb-ali-abbasi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=mr-muneeb-ali-abbasi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-muneeb-ali-abbasi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 <br/>
@@ -140,4 +140,4 @@ Muneeb is a **self-driven, focused, and result-oriented developer** with a passi
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" alt="Footer" />
