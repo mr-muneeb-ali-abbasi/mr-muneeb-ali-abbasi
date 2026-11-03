@@ -76,8 +76,8 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=mr-muneeb-ali-abbasi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-muneeb-ali-abbasi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img height="180" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Stats" />
+<img height="180" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top Languages" />
 
 <br/>
 
@@ -87,11 +87,12 @@
 
 ---
 
-## 🏆 𝗚𝗶𝘁𝗛𝘂𝗯 𝗧𝗿𝗼𝗽𝗵𝗶𝗲𝘀
+## 🏆 𝗣𝗿𝗼𝗳𝗶𝗹𝗲 𝗦𝘂𝗺𝗺𝗮𝗿𝘆
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mr-muneeb-ali-abbasi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="Trophies" />
+<img height="180" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" />
+<img height="180" src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" />
 
 </div>
 
